@@ -6,7 +6,6 @@ cache:
   directories:
   - Carthage
 before_install:
-  - brew update
   - brew install phantomjs
 script:
   - ./run_content_blocking_tests.sh
