@@ -8,7 +8,7 @@
 
 ## Execution
 
-See `../run_content_blocking_test_suite.sh`
+See `../run_content_blocking_tests.sh`
 
 
 ## Explaination
