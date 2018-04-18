@@ -1,5 +1,3 @@
-matrix:
-  fast_finish: true
 language: objective-c
 osx_image: xcode9
 cache:
@@ -9,5 +7,4 @@ before_install:
   - brew install phantomjs
 script:
   - ./run_content_blocking_tests.sh
-script:
   - ./run_tests.sh
